@@ -1,4 +1,4 @@
-/// code by twiez <>:
+ /// code by twiez <>:
 
 import React, { useState, useEffect, useCallback } from 'react';
 import { Wand2, Github, Download, X } from 'lucide-react';
