@@ -98,7 +98,7 @@ function App() {
                   value={prompt}
                   onChange={(e) => setPrompt(e.target.value)}
                   onKeyDown={(e) => e.key === 'Enter' && !e.ctrlKey && generateImage()}
-                  placeholder="How can Bolt help you today?"
+                  placeholder="How can TwiezAİ help you today?"
                   className="w-full px-4 py-3 rounded-lg bg-black/50 border border-white/10 focus:border-white/30 focus:ring-1 focus:ring-white/30 focus:outline-none transition-colors text-white placeholder-gray-500"
                 />
               </div>
